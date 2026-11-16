@@ -18,21 +18,21 @@ export type CurrentFocusBookCard = CurrentFocusBook & {
 
 export const CURRENT_FOCUS_BOOKS: readonly CurrentFocusBook[] = [
   {
-    id: "untethered-soul-book-cover",
-    title: "The Untethered Soul",
-    author: "Michael A. Singer",
-    href: "https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379",
+    id: "the-courage-to-be-disliked-book-cover",
+    title: "The Courage To Be Disliked",
+    author: "Ichiro Kishimi and Fumitake Koga",
+    href: "https://www.amazon.com/Courage-Being-Disliked-Phenomenon-Freeing/dp/1501197274",
   },
   {
-    id: "steve-jobs-book-cover",
-    title: "Steve Jobs",
-    author: "Walter Isaacson",
-    href: "https://a.co/d/0iZ46tVg",
+    id: "the-wisdom-of-insecurity-book-cover",
+    title: "The Wisdom of Insecurity",
+    author: "Alan Watts",
+    href: "https://www.amazon.com/Wisdom-Insecurity-Message-Age-Anxiety/dp/0307888300",
   },
   {
-    id: "the-third-door-book-cover",
-    title: "The Third Door",
-    author: "Alex Banayan",
-    href: "https://a.co/d/0aKMtxb5",
+    id: "plato-five-dialogues-book-cover",
+    title: "Five Dialogues",
+    author: "Plato",
+    href: "https://www.amazon.com/Five-Dialogues-Euthyphro-Apology-Hackett/dp/0872206335",
   },
 ];
